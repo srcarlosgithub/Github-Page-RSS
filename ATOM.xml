@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>APRUEBO PK SI</title>
+  <link href="https://www.apruebopksi.com"/>
+  <updated>2003-12-13T18:30:02Z</updated>
+  <author>
+    <name>Carlos Sánchez Giménez</name>
+  </author>
+  <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+  <entry>
+    <title>MÉTODOS_DE_ESTUDIO</title>
+    <link href="https://www.apruebopksi.com/metodosdeestudio"/>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>Articulo de métodos de estudio</summary>
+  </entry>
+
+  <entry>
+    <title>CARRERAS_TECNOLÓGICAS</title>
+    <link href="https://www.apruebopksi.com/carrerastecnológicos"/>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af5</id>
+    <updated>2004-12-13T18:30:02Z</updated>
+    <summary>Articulo de carreras tecnológicas</summary>
+  </entry>
+
+</feed>

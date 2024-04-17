@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>APRUEBO PK SI</title>
+        <link>https://www.apruebopksi.com</link>
+        <description>Canal de noticias de la academia "ApruebopkSI"</description>
+    <item>
+        <title>OFERTAS_DE_PRIMAVERA</title>
+        <link>https://www.apruebopksi/ofertasdeprimavera.com</link>
+        <description>Articulo sobre las nuevas ofertas de primavera</description>
+    </item>
+    <item>
+        <title>METODOS_DE_ESTUDIO</title>
+        <link>https://www.uo.edu.mx/blog/12-t%C3%A9cnicas-de-estudio-para-potenciar-tu-aprendizaje</link>
+        <description>Articulo sobre los metodos de estudio</description>
+    </item>
+    <item>
+        <title>CARRERAS_TECNOLOGÍCAS</title>
+        <link>https://es.indeed.com/orientacion-laboral/buscar-trabajo/carreras-ciencias-tecnologicas</link>
+        <description>Articulo sobre las carreras tecnologícas</description>
+    </item>
+    </channel>
+</rss>
